@@ -1,17 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T22:49:37.021Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Tq1PI0w_PfiMoZ0WdeOY" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T22:52:47.595Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WKZkGtXz3mHySY0Si5QG" version="14.7.0" type="github">
   <diagram id="JiDC-wCwQEAlLpPEnV7n" name="Page-1">
     <mxGraphModel dx="1388" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bwrTzcqRVCQtfXUB_IuM-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-1" value="王志浩test" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bwrTzcqRVCQtfXUB_IuM-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="384" y="260" width="60" height="60" as="geometry" />
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bwrTzcqRVCQtfXUB_IuM-2" target="bwrTzcqRVCQtfXUB_IuM-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwrTzcqRVCQtfXUB_IuM-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bwrTzcqRVCQtfXUB_IuM-3" target="bwrTzcqRVCQtfXUB_IuM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-3" value="成功了，以后画图就用这个" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="bwrTzcqRVCQtfXUB_IuM-1" target="bwrTzcqRVCQtfXUB_IuM-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="430" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-5" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwrTzcqRVCQtfXUB_IuM-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="540" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
